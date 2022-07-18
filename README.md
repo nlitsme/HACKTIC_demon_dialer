@@ -29,8 +29,8 @@ Below is the list of files recovered, this includes full source code in assemble
 | [`Rainbow_Box_Details.pdf`](Rainbow_Box_Details.pdf)           | similar project: the rainbow box.                                |
 | [`demon_dialer_v140.pdf`](demon_dialer_v140.pdf)               | scanned manual for v1.40 as pdf                                  |
 | [`demon-dialer-manual-v110.pdf`](demon-dialer-manual-v110.pdf) | v1.10 manual as pdf.                                             |
-| [`DemonDialer-HardwareReferenceManual.md`](DemonDialer-HardwareReferenceManual.md)    | Operation & Software reference manual as markdown    |
-| [`DemonDialer-SoftwareReferenceManual.md`](DemonDialer-SoftwareReferenceManual.md)    | Construction & Hardware reference manual as markdown |
+| [`DemonDialer-HardwareReferenceManual.txt`](DemonDialer-HardwareReferenceManual.txt)    | Operation & Software reference manual as text    |
+| [`DemonDialer-SoftwareReferenceManual.txt`](DemonDialer-SoftwareReferenceManual.txt)    | Construction & Hardware reference manual as text |
 
 Higher quality scans of the v1.4 manual:
 
