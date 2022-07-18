@@ -5,7 +5,7 @@ The DemonDialer was designed by Hacktic in 1991, see [hacktic 14-15](https://www
 
 | cpu  | keypad  |
 | ---- | ------- |
-| ~[cpu](demon-cpu.jpg)     | [keypad](demon-keybd.jpg)   |
+| ![cpu](demon-cpu.jpg)     | ![keypad](demon-keybd.jpg)   |
 
 
 With thanks to Don Froula, he got me looking for these files on old backup disks.
